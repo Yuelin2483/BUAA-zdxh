@@ -1,0 +1,37 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.idea/
+*.swp
+*.swo
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Node.js
+node_modules/
+dist/
+coverage/
+
+# Arduino / PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+*.bin
+*.elf
+*.hex
